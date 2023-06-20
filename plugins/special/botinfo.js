@@ -18,12 +18,13 @@ exports.run = {
 }
 
 let info = () => {
-   return `This bot was created and developed with the purpose of *learning*.
+   return `Support BayMax AI By Following & Subscring❤️*.
    
-Source :
-- https://github.com/neoxr/neoxr-bot
+Subscribe :
+- https://www.youtube.com/@mrjuiceofc
 
-65% of the data sent from this bot comes from Rest API: https://api.neoxr.my.id`
+Follow : 
+- https://www.facebook.com/profile.php?id=100093338111110`
 }
 
 const tnc = () => {
@@ -37,9 +38,9 @@ const tnc = () => {
 
 ➠ Don't be toxic to bots because you will get sanctions in the form of being banned and blocked.
 
-➠ Don't search & create adult content (+18), eg: make stickers from nude photos or search for ASMR sighs.
+➠ Don't search & create adult content (+18), eg: make stickers from nude photos or search for Nudity Sites.
 
-➠ If you want to unblock and unbanned, each will be charged a fee of Rp. 5,000,-
+➠ If you want to unblock and unbanned, each will be charged a fee of U.S.D. 2,-
 
 ➠ Spammers will be permanently banned for free and premium users (+ no refund).
 

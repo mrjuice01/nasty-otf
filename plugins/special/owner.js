@@ -7,11 +7,11 @@ exports.run = {
       client.sendContact(m.chat, [{
          name: global.owner_name,
          number: global.owner,
-         about: 'Owner & Creator'
+         about: 'BayMax AI Developer'
       }], m, {
-         org: 'Neoxr Network',
-         website: 'https://neoxr.my.id',
-         email: 'admin@neoxr.my.id'
+         org: 'Mr Juice OFC',
+         website: 'https://mrjuiceofc1.blogspot.com/?m=1',
+         email: 'mrjuice017@gmail.com'
       })
    },
    error: false,

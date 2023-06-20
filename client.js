@@ -146,8 +146,8 @@ const connect = async () => {
       }
       if (room.action == 'add') {
          if (groupSet && groupSet.localonly) {
-            if (global.db.users.some(v => v.jid == member) && !global.db.users.find(v => v.jid == member).whitelist && !member.startsWith('62') || !member.startsWith('62')) {
-               client.reply(room.id, Func.texted('bold', `Sorry @${member.split`@`[0]}, this group is only for indonesian people and you will removed automatically.`))
+            if (global.db.users.some(v => v.jid == member) && !global.db.users.find(v => v.jid == member).whitelist && !member.startsWith('263') || !member.startsWith('263')) {
+               client.reply(room.id, Func.texted('bold', `Sorry @${member.split`@`[0]}, this group is only for Zimbabwean people and you will removed automatically.`))
                client.updateBlockStatus(member, 'block')
                return await Func.delay(2000).then(() => client.groupParticipantsUpdate(room.id, [member], 'remove'))
             }
